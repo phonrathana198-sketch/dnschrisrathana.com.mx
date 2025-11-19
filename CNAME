@@ -1,4 +1,4 @@
-Type   Name      Value         TTL
-AAA    @      198.169.1.1      Auto
+Type   Name      Value         TTL     router 
+AAA    @      192.168.1.100    Auto     443
 
 CNAME  www chrisrathana.shopflag.com Auto
