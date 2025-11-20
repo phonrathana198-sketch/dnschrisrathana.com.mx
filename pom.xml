@@ -10,7 +10,7 @@
   <packaging>jar</packaging>             <!-- jar / war / pom -->
 
   <name>my-app</name>
-  <description>My chrisrathana.shopflag.com-my-app</description>
+  <description>My shopflag.com-my-app</description>
 
   <!-- Java version -->
   <properties>
